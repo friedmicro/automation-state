@@ -1,0 +1,16 @@
+{
+  "name": "state-backup",
+  "version": "1.0.0",
+  "description": "Backup Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-bodyparser": "^4.3.0"
+  },
+  "type": "module"
+}
